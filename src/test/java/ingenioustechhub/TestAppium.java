@@ -11,5 +11,10 @@ public class TestAppium {
 	public void ISPApp() {
 		System.out.println("OSApps");
 	}
+	
+	@Test
+	public void ISPAppp() {
+		System.out.println("OSAppsss");
+	}
 
 }
